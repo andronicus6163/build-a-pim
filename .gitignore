@@ -65,3 +65,9 @@ dramsim3/.vs/
 dramsim3/.vscode/
 .vscode/
 dramsim3/build/
+
+# --- repo-local environments and test cache (do not commit) ---
+# (the "./"-prefixed entries above do not match in .gitignore syntax)
+.conda-py314/
+.venv/
+.pytest_cache/
